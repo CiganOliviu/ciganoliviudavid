@@ -50,3 +50,30 @@ It can also be a plugin to any system but it requires interoperability.
 
 There is a version of this project which is not a plugin, is an independent app.
 Here is the full documentation of how this webapp works: https://github.com/CiganEnterprise/CustomerRelationshipManagement
+
+On short about the CRM:
+ 
+##### CLIENTSMANAGEMENT
+
+The clients management database contains 4 different tables.
+Clients Details which is about different informations about the clients such as the
+type of the client, number of finished projects, size of the client and others.
+
+Clients Feedback represents the feedback from the clients, how they fell about
+the services the business provides.
+
+Messages to clients represents special emails which are sent to the clients about 
+different topics like how the project work is going, about problems who occur
+during the project development or others.
+
+Projects requests represents that part of the system where clients ask about 
+new projects that they need. You as business or self employed person are able to
+refuse, accept or don't answer if you wish. In the moment you change the status of the
+requested project, a feedback will be sent to the user. For more details about how 
+the system works here is the documentation: https://github.com/CiganEnterprise/CustomerRelationshipManagement
+
+Products management and Projects management represents where is the business working
+in the moment you request a project. You can see how many projects or products
+does the business have as active working, planned or finished. In this way you as
+client can see how does the business go and your changes to get accepted for future
+projects. 
