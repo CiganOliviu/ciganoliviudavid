@@ -84,3 +84,14 @@ in the moment you request a project. You can see how many projects or products
 does the business have as active working, planned or finished. In this way you as
 client can see how does the business go and your changes to get accepted for future
 projects. 
+
+## Frontend
+
+The webapp is fully responsive, easy to use with basic animations written in css3
+or provided by libraries like AOS (https://michalsnik.github.io/aos/), bootstrap
+or font awesome.
+
+I've use vanilla javascript combined with jquery for functionalities like scroll down, 
+scroll top, hamburger menu and a digit incrementer.
+
+![Website administration blog UI](ciganoliviudavid_documentation/picture_9.png)
