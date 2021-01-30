@@ -91,7 +91,7 @@ The webapp is fully responsive, easy to use with basic animations written in css
 or provided by libraries like AOS (https://michalsnik.github.io/aos/), bootstrap
 or font awesome.
 
-I've use vanilla javascript combined with jquery for functionalities like scroll down, 
+I've used vanilla javascript combined with jquery for functionalities like scroll down, 
 scroll top, hamburger menu and a digit incrementer.
 
 ![Website main page responsive](ciganoliviudavid_documentation/picture_9.png)
