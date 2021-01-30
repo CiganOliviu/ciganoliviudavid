@@ -68,7 +68,8 @@ the services the business provides.
 
 Messages to clients represents special emails which are sent to the clients about 
 different topics like how the project work is going, about problems who occur
-during the project development or others.
+during the project development or others. This messaging system is part of the CRM, 
+it is totally independent by any other mailing provider! 
 
 Projects requests represents that part of the system where clients ask about 
 new projects that they need. You as business or self employed person are able to
