@@ -40,3 +40,13 @@ change or write articles very easy through a basic form.
 ##### The way it looks in the UI
 
 ![Website administration blog UI](ciganoliviudavid_documentation/picture_6.png) 
+
+Based on the Posts table I also created a search engine through the articles so that
+the user will be able to go straight to the desired article or information.
+
+The rest of the system, as I said, is part of another project which is a CRM. The version
+used here is a plugin, in this way it can be integrated in any Python Django App without problems.
+It can also be a plugin to any system but it requires interoperability.
+
+There is a version of this project which is not a plugin, is an independent app.
+Here is the full documentation of how this webapp works: https://github.com/CiganEnterprise/CustomerRelationshipManagement
