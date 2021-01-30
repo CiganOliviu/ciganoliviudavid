@@ -29,10 +29,14 @@ change or write articles very easy through a basic form.
 
 ##### Checking the articles from the blog system
 
-![Website administration page](ciganoliviudavid_documentation/picture_3.png) 
+![Website administration blog](ciganoliviudavid_documentation/picture_3.png) 
 
 ##### Adding a new article
 
-![Website administration page](ciganoliviudavid_documentation/picture_4.png) 
+![Website administration blog input](ciganoliviudavid_documentation/picture_4.png) 
 
-![Website administration page](ciganoliviudavid_documentation/picture_5.png) 
+![Website administration blog input](ciganoliviudavid_documentation/picture_5.png) 
+
+##### The way it looks in the UI
+
+![Website administration blog UI](ciganoliviudavid_documentation/picture_6.png) 
