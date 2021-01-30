@@ -48,7 +48,7 @@ The rest of the system, as I said, is part of another project which is a CRM. Th
 used here is a plugin, in this way it can be integrated in any Python Django App without problems.
 It can also be a plugin to any system but it requires interoperability.
 
-There is a version of this project which is not a plugin, is an independent app.
+There is a version of this CRM which is not a plugin, is an independent app.
 Here is the full documentation of how this webapp works: https://github.com/CiganEnterprise/CustomerRelationshipManagement
 
 On short about the CRM:
@@ -71,6 +71,8 @@ new projects that they need. You as business or self employed person are able to
 refuse, accept or don't answer if you wish. In the moment you change the status of the
 requested project, a feedback will be sent to the user. For more details about how 
 the system works here is the documentation: https://github.com/CiganEnterprise/CustomerRelationshipManagement
+
+##### PRODUCTS AND PROJECTS MANAGEMENT
 
 Products management and Projects management represents where is the business working
 in the moment you request a project. You can see how many projects or products
